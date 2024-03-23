@@ -55,7 +55,7 @@ body
     margin: 10px;
     width: 230px;
     height: 142px;
-    background-color: #666666;
+    background-color: red;
     float: left;
 }
 
@@ -73,5 +73,5 @@ body
     margin: 10px;
     width: 230px;
     height: 142px;
-    background-color: #ee5a32;
+    background-color: blue;
 }
